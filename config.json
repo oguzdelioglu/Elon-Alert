@@ -1,0 +1,18 @@
+{
+	"Binance": {
+		"BinanceAPIKey"	:	"",
+		"BinanceSecretKey"	:	""
+	},
+	"Twitter": {
+		"TwitterConsumerKey"	:	"",
+		"TwitterConsumerSecret"	:	"",
+		"TwitterAccessToken"	:	"",
+		"TwitterAccessSecret"	:	"",
+		"Elonid"	:	"44196397"
+	},
+	"BaseAsset"	:	"DOGE",
+	"QuoteAsset"	:	"USDT",
+	"Quantity"	:	10,
+	"ProfitRate"	:	2,
+	"Fee"	:	1
+}
